@@ -1,6 +1,7 @@
 # 📚 The Book Atelier - Laravel Edition
 
-[![Preview Gallery](https://img.shields.io/badge/Preview-Web%20Screenshots-800020?style=for-the-badge&logo=github)](https://github.com/Veltros/BookStoreTo1/blob/main/screenshots/README.md)
+[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages%20Live-800020?style=for-the-badge&logo=githubpages)](https://veltros.github.io/BookStoreTo1/)
+[![Preview Gallery](https://img.shields.io/badge/Preview-Web%20Screenshots-2ea44f?style=for-the-badge&logo=github)](https://github.com/Veltros/BookStoreTo1/blob/main/screenshots/README.md)
 [![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql)](https://mysql.com)
@@ -8,9 +9,12 @@
 
 Versi modern dari aplikasi toko buku online **The Book Atelier** yang dibangun menggunakan framework **Laravel 11**, **MySQL**, **PHP 8.3**, dan **Bootstrap 5.3**.
 
-> 🔗 **Tautan Preview Visual Website:**  
-> 👉 [**https://github.com/Veltros/BookStoreTo1/blob/main/screenshots/README.md**](https://github.com/Veltros/BookStoreTo1/blob/main/screenshots/README.md)  
-> *(Dapat dilihat langsung di GitHub tanpa perlu hosting eksternal)*
+> 🌐 **Live Preview Landing Page (GitHub Pages):**  
+> 👉 [**https://veltros.github.io/BookStoreTo1/**](https://veltros.github.io/BookStoreTo1/)  
+> *(Halaman antarmuka beranda resmi dapat dibuka langsung 24/7 di browser tanpa perlu hosting luar)*
+
+> 📸 **Galeri Lengkap 14 Tangkapan Layar:**  
+> 👉 [**https://github.com/Veltros/BookStoreTo1/blob/main/screenshots/README.md**](https://github.com/Veltros/BookStoreTo1/blob/main/screenshots/README.md)
 
 ---
 
