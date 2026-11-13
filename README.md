@@ -48,3 +48,8 @@ Versi modern dari aplikasi toko buku online **The Book Atelier** yang dibangun m
      👉 **`http://localhost/bookstore-laravel/public`**
    - Panel Admin:  
      👉 **`http://localhost/bookstore-laravel/public/admin`**
+
+---
+
+## 📸 Tangkapan Layar & Preview Tampilan
+Dokumentasi visual lengkap aplikasi (14 tangkapan layar antarmuka pengguna & administrator) dapat dilihat langsung pada folder [**`screenshots/`**](screenshots/README.md).
